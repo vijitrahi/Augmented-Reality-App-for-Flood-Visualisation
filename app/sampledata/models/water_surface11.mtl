@@ -1,0 +1,12 @@
+# Blender MTL File: 'water_surface.blend'
+# Material Count: 1
+
+newmtl Material.002
+Ns 772.738810
+Ka 0.477064 0.477064 0.477064
+Kd 0.166825 0.318373 0.800000
+Ks 0.545872 0.545872 0.545872
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.761468
+illum 6

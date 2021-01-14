@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">AR App</string>
+    <string name="drawer_item_home">Flood Plane</string>
+    <string name="drawer_item_settings">Information 1</string>
+</resources>

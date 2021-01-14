@@ -1,0 +1,42 @@
+{
+  materials: [
+    {
+      name: 'Material.002',
+      parameters: [
+        {
+          baseColor: null,
+        },
+        {
+          baseColorTint: [
+            0.166825,
+            0.31837300000000002,
+            0.80000000000000004,
+            1,
+          ],
+        },
+        {
+          metallic: 0.2,
+        },
+        {
+          roughness: 0.8,
+        },
+        {
+          opacity: 0.76146800000000003,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/obj_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+    ],
+    collision: {},
+    file: 'sampledata/models/water_surface11.obj',
+    name: 'water_surface11',
+    recenter: 'root',
+  },
+  version: '0.54:2',
+}
