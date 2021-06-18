@@ -10,4 +10,4 @@ to some terminologies. Chapter 3 describes some of the algorithms working in bac
 to make AR possible. Last chapter gives a detailed work flow of the App. Its working and
 supported device are also explained in the last chapter. The code for the app can be found
 on Github profile: https://github.com/vijitrahi
-The project has been made for a subject
+The project has been made as an internship project.
